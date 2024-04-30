@@ -22,7 +22,7 @@ setup(
     author="DeadSec-Security",
     author_email="amng835@gmail.com",
     url="https://github.com/DEADSEC-SECURITY/raspberry-config-sdk",
-    requires=["tqdm~=4.66.0", "bigtree~=0.17.0"],
+    install_requires=["tqdm~=4.66.0", "bigtree~=0.17.0"],
     keywords=["raspberry", "raspberry pi", "config.txt", "raspberry config", "boot"],
     license="MIT",
     python_requires=">=3.8,==3.11.2",
